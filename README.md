@@ -24,4 +24,8 @@
 * [ ] https://github.com/vinta/awesome-python
 * [ ] https://github.com/jobbole/awesome-python-cn
 
+## 4 SQL
+
+* [ ] https://www.liaoxuefeng.com/wiki/1177760294764384
+
 
