@@ -1,21 +1,27 @@
-## Guides
+## 1 Guides
 
 * [ ] https://guides.github.com/
 
-## vscode
+## 2 vscode
 
 * [ ] https://code.visualstudio.com/docs
 
-## Python
+## 3 Python
 
-### Learn
+### 3.1 Learn
 
 * [ ] https://www.learnpython.org/
 * [ ] https://github.com/xianhu/LearnPython
 * [ ] https://github.com/trekhleb/learn-python
 
-## Data Science
+### Data Science
 
 * [ ] https://github.com/xiaoni0601/PythonDataScienceHandbook
+
+
+### Awesome Python
+
+* [ ] https://github.com/vinta/awesome-python
+* [ ] https://github.com/jobbole/awesome-python-cn
 
 
