@@ -14,12 +14,12 @@
 * [ ] https://github.com/xianhu/LearnPython
 * [ ] https://github.com/trekhleb/learn-python
 
-### Data Science
+### 3.2 Data Science
 
 * [ ] https://github.com/xiaoni0601/PythonDataScienceHandbook
 
 
-### Awesome Python
+### 3.3 Awesome Python
 
 * [ ] https://github.com/vinta/awesome-python
 * [ ] https://github.com/jobbole/awesome-python-cn
