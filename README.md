@@ -24,6 +24,10 @@
 * [ ] https://github.com/vinta/awesome-python
 * [ ] https://github.com/jobbole/awesome-python-cn
 
+### 3.4 Tools
+
+* [ ] https://github.com/ricklamers/gridstudio
+
 ## 4 SQL
 
 * [ ] https://www.liaoxuefeng.com/wiki/1177760294764384
