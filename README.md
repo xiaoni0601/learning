@@ -17,6 +17,7 @@
 ### 3.2 Data Science
 
 * [ ] https://github.com/xiaoni0601/PythonDataScienceHandbook
+* [ ] https://github.com/rushter/data-science-blogs
 
 
 ### 3.3 Awesome Python
