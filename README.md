@@ -11,6 +11,7 @@
 ### 3.1 Learn
 
 * [ ] https://www.learnpython.org/
+* [ ] https://github.com/jackfrued/Python-100-Days
 * [ ] https://github.com/xianhu/LearnPython
 * [ ] https://github.com/trekhleb/learn-python
 
