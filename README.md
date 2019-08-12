@@ -1,6 +1,7 @@
 ## 1 Guides
 
 * [ ] https://guides.github.com/
+* [ ] http://google.github.io/styleguide/
 
 ## 2 vscode
 
