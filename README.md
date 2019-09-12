@@ -30,6 +30,7 @@
 ### 3.4 Tools
 
 * [ ] https://github.com/ricklamers/gridstudio
+* [ ] https://github.com/DistrictDataLabs/yellowbrick
 
 ## 4 SQL
 
